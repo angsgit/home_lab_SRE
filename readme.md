@@ -1,4 +1,4 @@
-# Homelab CI/CD Pipeline with Jenkins, Terraform, and K3s
+# CI/CD Pipeline with Jenkins, Terraform, and K3s
 
 This repository demonstrates a self-contained homelab setup for deploying and monitoring a Python application using **Jenkins, Terraform, Docker, and K3s (lightweight Kubernetes)**. The lab includes monitoring via **Prometheus** and **Grafana**.
 
